@@ -10,7 +10,7 @@
 	<li><a href="https://learn.microsoft.com/en-gb/users/burak-hocuk/">Microsoft Learn</a></li>
 </ul>
 
-<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img width="150" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
+<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img width="160" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
 </body>
 
 <!--

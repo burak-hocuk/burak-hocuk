@@ -1,10 +1,14 @@
 <img width="180" src="https://www.metu.edu.tr/system/files/logo_orj/9/9.8.png">
 <p>Mining Engineering Student at METU | Amateur Programmer | Eager Learner | Book Enthusiast</p>
+<div style="display:inline-block">
+<img height="40" href="https://www.linkedin.com/in/burak-hocuk/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" />
+<img height="40" href="https://github.com/burak-hocuk" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" />
+</div>
 <p>Learning:</p>
 <div style="display:inline-block">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
 </div>
 <p>Check out my other profiles/portfolios:</p>
 <ul>

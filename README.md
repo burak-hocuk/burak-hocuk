@@ -1,6 +1,7 @@
 <img width="180" src="https://www.metu.edu.tr/system/files/logo_orj/9/9.8.png">
 <p>Mining Engineering Student at METU | Amateur Programmer | Eager Learner | Book Enthusiast</p>
 <p>Learning:</p>
+<img width="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
 <ul><li>🐍 Python</li><li>🔍 SQL</li><li>🌐 HTML</li><li>🎨 CSS</li></ul>
 
 <p>Check out my other profiles/portfolios:</p><ul>

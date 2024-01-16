@@ -4,7 +4,6 @@
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
 		<a href="https://github.com/burak-hocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" /></a>
-		<a href="https://www.freecodecamp.org/burak-hocuk"><img height="30" src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg"></a>
 	</div>
 	<h2>Learning:</h2>
 	<div style="display:inline-block">

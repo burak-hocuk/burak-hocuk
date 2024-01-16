@@ -1,8 +1,8 @@
 <img width="180" src="https://www.metu.edu.tr/system/files/logo_orj/9/9.8.png">
 <p>Mining Engineering Student at METU | Amateur Programmer | Eager Learner | Book Enthusiast</p>
 <div style="display:inline-block">
-<img height="40" href="https://www.linkedin.com/in/burak-hocuk/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" />
-<img height="40" href="https://github.com/burak-hocuk" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" />
+<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
+<a href="https://github.com/burak-hocuk"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" /></a>
 </div>
 <p>Learning:</p>
 <div style="display:inline-block">

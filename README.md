@@ -1,6 +1,6 @@
 <body>
 	<img height="100" src="https://www.metu.edu.tr/system/files/logo_orj/3/3.7.jpg">
-	<h4>Mining Engineering Student ⛏️ @ METU | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Book Enthusiast 📖 | Eager Learner ✍🏻</h4>
+	<h4>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert 🌟 | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</h4>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
 		<a href="https://github.com/burak-hocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" /></a>

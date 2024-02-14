@@ -19,10 +19,15 @@
 		<li><a href="https://www.datacamp.com/portfolio/burak-hocuk">DataCamp</a></li>
 		<li><a href="https://learn.microsoft.com/en-gb/users/burak-hocuk/">Microsoft Learn</a></li>
 	</ul>
+	<h2>Certifications</h2>
 	<div style="display:inline-block">
 		<a href="https://www.virtualbadge.io/certificate-validator?credential=1cc7d71c-1572-494b-af8f-774d8f246200"><img height="170" src="https://blob.virtualbadge.io/event-12616/openbadges/badges/1cc7d71c-1572-494b-af8f-774d8f246200.png?se=3000-01-01&sp=rwdl&sv=2019-12-12&sr=c&sig=/gGnISRMx7letOdVYF9cb8EDKYFNW6mjYyycBitUXEA%3D" alt="OPEX_certification"></a>
 		<a href="https://www.virtualbadge.io/certificate-validator?credential=dc4b5f9c-3d57-4060-b6f0-0dd73d3cdd42"><img height="170" src="https://blob.virtualbadge.io/event-9580/openbadges/badges/dc4b5f9c-3d57-4060-b6f0-0dd73d3cdd42.png?se=3000-01-01&sp=rwdl&sv=2019-12-12&sr=c&sig=vGrzy8R1bVfuTGsN/77V0qR1jArjBCZffpW4Vt4iMs8%3D" alt="lean_six_sigma_black_belt_certification"></a>
-		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="170" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
+	</div>
+	<h2>Badges</h2>
+	<div style="display:inline-block">
+		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="150" alt="celonis_foundations" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>
+		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="150" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
 	</div>
 	<p>Source for developer icons: <a href="https://devicon.dev/">Devicon</a> </p>
 </body>

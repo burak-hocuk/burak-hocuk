@@ -3,7 +3,7 @@
 	<ul>
     <li> ⛏️ Mining Engineering Student @ METU </li>
     <li> ⭐️ Operational Excellence (OPEX) Expert </li>
-    <li> 📈 CLSSBB & CLE </li>
+    <li> 📈 Certified Lean Six Sigma Black Belt & Certified Lean Management and Manufacturing Expert </li>
     <li> 🖥️ Amateur Programmer </li>
     <li> 📊 Data Learner </li>
     <li> ✍🏻 Eager Learner </li>

@@ -1,6 +1,6 @@
 <body>
 	<img src="https://www.metu.edu.tr/system/files/logo_orj/3/3.7.jpg">
-	<h4>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert ⭐ | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</h4>
+	<p>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert ⭐ | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</p>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
 		<a href="https://www.kaggle.com/burakhocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>

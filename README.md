@@ -1,11 +1,12 @@
 <body>
 	<img height="100" src="https://www.metu.edu.tr/system/files/logo_orj/3/3.7.jpg">
-	<h4>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert 🌟 | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</h4>
+	<h4>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert ⭐ | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</h4>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
 		<a href="https://github.com/burak-hocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" /></a>
+		<a href="https://www.kaggle.com/burakhocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>
 	</div>
-	<h2>Learning:</h2>
+	<h2>Learning</h2>
 	<div style="display:inline-block">
 		<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
 		<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
@@ -26,8 +27,8 @@
 	</div>
 	<h2>Badges</h2>
 	<div style="display:inline-block">
-		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="150" alt="celonis_foundations" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>
-		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="150" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
+		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="75" alt="celonis_foundations" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>
+		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="75" alt="ai_fundamentals_certified" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
 	</div>
 	<p>Source for developer icons: <a href="https://devicon.dev/">Devicon</a> </p>
 </body>

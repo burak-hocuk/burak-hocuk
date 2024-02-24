@@ -1,14 +1,14 @@
 <body>
 	<img src="https://www.metu.edu.tr/system/files/logo_orj/3/3.4.png">
-	<ol>
-    <li>Mining Engineering Student ⛏️ @ METU</li>
-    <li> | Operational Excellence (OPEX) Expert ⭐ </li>
-    <li>| CLSSBB & CLE 📈 </li>
-    <li>| Amateur Programmer 🖥️ </li>
-    <li>| Data Learner 📊 </li>
-    <li>| Eager Learner ✍🏻 </li>
-    <li>| Book Enthusiast 📖</li>
-  </ol>
+	<ul>
+    <li> ⛏️ Mining Engineering Student @ METU </li>
+    <li> ⭐️ Operational Excellence (OPEX) Expert </li>
+    <li> 📈 CLSSBB & CLE </li>
+    <li> 🖥️ Amateur Programmer </li>
+    <li> 📊 Data Learner </li>
+    <li> ✍🏻 Eager Learner </li>
+    <li> 📖 Book Enthusiast </li>
+  </ul>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
 		<a href="https://www.kaggle.com/burakhocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>

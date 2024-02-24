@@ -3,12 +3,12 @@
 	<h4>Mining Engineering Student ⛏️ @ METU | Operational Excellence (OPEX) Expert ⭐ | CLSSBB & CLE 📈 | Amateur Programmer 🖥️ | Data Learner 📊 | Eager Learner ✍🏻 | Book Enthusiast 📖</h4>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
-		<a href="https://github.com/burak-hocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="My GitHub profile" /></a>
 		<a href="https://www.kaggle.com/burakhocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>
 	</div>
 	<h2>Learning</h2>
 	<div style="display:inline-block">
 		<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+            	<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" />
 		<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
 		<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
 	</div>

@@ -6,10 +6,10 @@
 	</div>
 	<h2>Learning</h2>
 	<div style="display:inline-block">
-		<a href="https://www.python.org/"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
-            	<a href="https://www.microsoft.com/en-us/sql-server/"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" /></a>
-		<a href=""><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" /></a>
 		<a href=""><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" /></a>
+		<a href=""><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" /></a>
+            	<a href="https://www.microsoft.com/en-us/sql-server/"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" /></a>
+		<a href="https://www.python.org/"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
 	</div>
 	<h3>Check out my other profiles/portfolios:</h3>
 	<ul>

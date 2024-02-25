@@ -4,10 +4,6 @@
     <li> ⛏️ Mining Engineering Student @ METU </li>
     <li> ⭐️ Operational Excellence (OPEX) Expert </li>
     <li> 📈 Certified Lean Six Sigma Black Belt & Certified Lean Management and Manufacturing Expert </li>
-    <li> 🖥️ Amateur Programmer </li>
-    <li> 📊 Data Learner </li>
-    <li> ✍🏻 Eager Learner </li>
-    <li> 📖 Book Enthusiast </li>
   </ul>
 	<div style="display:inline-block">
 		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>

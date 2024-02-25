@@ -1,9 +1,8 @@
 <body>
-	<img src="https://www.metu.edu.tr/system/files/logo_orj/3/3.4.png">
 	<div style="display:inline-block">
-		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
-        	<a href="https://github.com/burak-hocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
-		<a href="https://www.kaggle.com/burakhocuk"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>
+		<a href="https://www.linkedin.com/in/burak-hocuk/"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn profile" /></a>
+        	<a href="https://github.com/burak-hocuk"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
+		<a href="https://www.kaggle.com/burakhocuk"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>
 	</div>
 	<h2>Learning</h2>
 	<div style="display:inline-block">
@@ -20,7 +19,6 @@
 		<li><a href="https://www.datacamp.com/portfolio/burak-hocuk">DataCamp</a></li>
 		<li><a href="https://learn.microsoft.com/en-gb/users/burak-hocuk/">Microsoft Learn</a></li>
 	</ul>
-	<h2>Certifications</h2>
 	<h2>Badges</h2>
 	<div style="display:inline-block">
 		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="75" alt="celonis_foundations" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>

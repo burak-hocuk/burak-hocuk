@@ -6,14 +6,17 @@
 	</div>
 	<h2>Learning</h2>
 	<div style="display:inline-block">
-	        <a href="https://angular.io/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" /></a>
- 		<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
-		<a href="https://isocpp.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/></a>
-		<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-		<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-		<a href="https://ecma-international.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
-   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-		<a href="https://www.python.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
+		<h3>Data Science</h3>
+   			<a href="https://numpy.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" /></a>
+			<a href="https://www.python.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
+		<h3>Web Development</h3>
+	        	<a href="https://angular.io/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" /></a>
+			<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+			<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+			<a href="https://ecma-international.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
+		<h3>Programming Languages</h3>
+ 			<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
+			<a href="https://isocpp.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/></a>
 	</div>
 	<h2>Badges</h2>
 	<div style="display:inline-block">

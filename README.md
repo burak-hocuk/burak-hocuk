@@ -7,7 +7,7 @@
 	<h1>Learning</h1>
 	<div style="display:inline-block">
 		<h3>Data Science</h3>
-			<a herf="https://matplotlib.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /></a>
+			<a href="https://matplotlib.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /></a>
    			<a href="https://numpy.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" /></a>
           		<a href="https://pandas.pydata.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" /></a>
 			<a href="https://www.python.org/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>

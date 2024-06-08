@@ -22,6 +22,7 @@
 	</div>
 	<h2>Badges</h2>
 	<div style="display:inline-block">
+		<a href="https://www.credly.com/badges/47caa519-ce56-4071-a968-af60001529c0/public_url"><img height="75" src="https://images.credly.com/images/bb445c34-b2fd-4daf-9aa5-918f527b509e/image.png"></a>
 		<a href="https://www.credly.com/badges/c3e90a78-c0be-40c0-9f69-6791edfbc4f9/public_url"><img height="75" src="https://images.credly.com/images/c6ba31ee-be84-4a98-8478-a152df17de65/image.png"></a>
 		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="75" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>
 		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="75" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>

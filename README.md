@@ -22,6 +22,7 @@
 	</div>
 	<h2>Badges</h2>
 	<div style="display:inline-block">
+		<a href="https://www.credly.com/badges/d85fb516-6591-4837-86c2-8431f4283d36/public_url"><img height="75" src="https://images.credly.com/images/d140b4a3-629e-46e2-9c62-ab1ba6a044c2/image.png"></a>
 		<a href="https://www.credly.com/badges/306625ea-d391-4014-9d23-a15e4a6a41d5/public_url"><img height="75" src="https://images.credly.com/images/b62670ee-cb24-4603-b3b2-88517e64550d/image.png"></a>
 		<a href="https://www.credly.com/badges/1843a04d-901c-4273-aceb-ab1b6ba2ba02/public_url"><img height="75" src="https://images.credly.com/images/4b02ec3c-b8e7-47b2-b033-d5ad68d69d08/image.png"></a>
 		<a href="https://www.credly.com/badges/9369a864-ef04-42e6-9c3b-d61773584514/public_url"><img height="75" src="https://images.credly.com/images/edd8c4b5-eb09-4fc7-8f1e-1f29f47362b5/image.png"></a>

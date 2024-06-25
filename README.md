@@ -22,24 +22,9 @@
 	</div>
 	<h2>Badges</h2>
 	<div style="display:inline-block">
-		<a href="https://www.credly.com/badges/5eaba0d6-f587-41a2-89ee-b3d09c0d88ab/public_url"><img height="75" src="https://images.credly.com/images/372b87d7-073f-4279-9cff-f574327d626e/image.png"></a>
-		<a href="https://www.credly.com/badges/4af66587-22ad-4a12-8a0c-ae515925d6dd/public_url"><img height="75" src="https://images.credly.com/images/97ef483f-ee78-48a5-b4d9-1526cf08b7a4/image.png"></a>
-		<a href="https://www.credly.com/badges/443104a9-b57b-43a0-9a23-f9fa829fad88/public_url"><img height="75" src="https://images.credly.com/images/c49c04e1-7ab8-44e5-a7fa-37ed50e859af/image.png"></a>
-		<a href="https://www.credly.com/badges/259563f2-b9c6-4f0a-873a-263134d76d84/public_url"><img height="75" src="https://images.credly.com/images/23959af0-44ad-4965-87ef-7758d0466471/image.png"></a>
-		<a href="https://www.credly.com/badges/d85fb516-6591-4837-86c2-8431f4283d36/public_url"><img height="75" src="https://images.credly.com/images/d140b4a3-629e-46e2-9c62-ab1ba6a044c2/image.png"></a>
-		<a href="https://www.credly.com/badges/306625ea-d391-4014-9d23-a15e4a6a41d5/public_url"><img height="75" src="https://images.credly.com/images/b62670ee-cb24-4603-b3b2-88517e64550d/image.png"></a>
-		<a href="https://www.credly.com/badges/1843a04d-901c-4273-aceb-ab1b6ba2ba02/public_url"><img height="75" src="https://images.credly.com/images/4b02ec3c-b8e7-47b2-b033-d5ad68d69d08/image.png"></a>
-		<a href="https://www.credly.com/badges/9369a864-ef04-42e6-9c3b-d61773584514/public_url"><img height="75" src="https://images.credly.com/images/edd8c4b5-eb09-4fc7-8f1e-1f29f47362b5/image.png"></a>
-		<a href="https://www.credly.com/badges/e46649d4-4290-4b81-baec-fb2e26100fca/public_url"><img height="75" src="https://images.credly.com/images/ec9cb279-eea3-402b-b7fa-4f1669c8ba11/image.png"></a>
-		<a href="https://www.credly.com/badges/397e380a-f4ac-41c8-942b-40fadf032de7/public_url"><img height="75" src="https://images.credly.com/images/6b35e0a1-7085-441b-8b7a-307a1f8afe40/image.png"></a>
-		<a href="https://www.credly.com/badges/ddd3756e-62e5-4b2f-9788-9df79310023a/public_url"><img height="75" src="https://images.credly.com/images/d3da683c-f917-4e50-9102-fa9241eb4a90/image.png"></a>
-		<a href="https://www.credly.com/badges/99351c34-71b8-4b29-8a09-9ff61abcd3b2/public_url"><img height="75" src="https://images.credly.com/images/a80b9dc3-db65-48c1-81f0-1bb3119c9dc7/image.png"></a>
-		<a href="https://www.credly.com/badges/ad903394-6691-4e55-b753-f80b2574312c/public_url"><img height="75" src="https://images.credly.com/images/12056bcf-be4f-4609-a240-22a84973b686/image.png"></a>
-		<a href="https://www.credly.com/badges/854b96e0-5ce1-47e6-8baa-2cd6419a2bd8/public_url"><img height="75" src="https://images.credly.com/images/5bac76f3-20dc-494b-ae36-c544c95f5d95/image.png"></a>
-		<a href="https://www.credly.com/badges/ac8ed55e-544e-469a-9495-aaaaff05fd68/public_url"><img height="75" src="https://images.credly.com/images/7d081d1a-d45a-4c6d-843f-59776e265a9f/image.png"></a>
-		<a href="https://www.credly.com/badges/1496243a-4540-43e3-a85c-59b204c0a544/public_url"><img height="75" src="https://images.credly.com/images/41e67025-f502-4f7f-9cf8-ca81538a533b/image.png"></a>
-		<a href="https://www.credly.com/badges/47caa519-ce56-4071-a968-af60001529c0/public_url"><img height="75" src="https://images.credly.com/images/bb445c34-b2fd-4daf-9aa5-918f527b509e/image.png"></a>
-		<a href="https://www.credly.com/badges/c3e90a78-c0be-40c0-9f69-6791edfbc4f9/public_url"><img height="75" src="https://images.credly.com/images/c6ba31ee-be84-4a98-8478-a152df17de65/image.png"></a>
+		<a href="https://www.credly.com/badges/4af66587-22ad-4a12-8a0c-ae515925d6dd/public_url"><img height="75" src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png"></a>
+		<a href="https://www.credly.com/badges/e46649d4-4290-4b81-baec-fb2e26100fca/public_url"><img height="75" src="https://images.credly.com/images/dba526ad-3a2f-49af-becf-65d5a66a75ae/image.png"></a>
+		<a href="https://www.credly.com/badges/854b96e0-5ce1-47e6-8baa-2cd6419a2bd8/public_url"><img height="75" src="https://images.credly.com/images/02e15286-d87a-45aa-9ba7-8d38307ca368/image.png"></a>
 		<a href="https://www.credly.com/badges/266ee67d-ab92-43df-b44a-0d3dbe74527e/public_url"><img height="75" src="https://images.credly.com/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png"></a>
 		<a href="https://www.datacamp.com/skill-verification/AIF0012519930101"><img height="75" src="https://github.com/burak-hocuk/burak-hocuk/assets/155871917/1b9eb704-f462-4760-b742-130e5bdaae9e"></a>
 	</div>

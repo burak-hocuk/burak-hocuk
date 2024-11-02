@@ -4,7 +4,7 @@
         	<a href="https://github.com/burak-hocuk"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
 		<a href="https://www.kaggle.com/burakhocuk"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="My Kaggle profile" /></a>
 	</div>
-	<h1>Learning & Improving</h1>
+	<h1>Tools</h1>
 	<div style="display:inline-block">
 	        	<a href="https://angular.io/"><img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" /></a>
  			<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" />
